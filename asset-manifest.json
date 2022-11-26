@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tell-me-a-joke/static/css/main.ececed05.css",
+    "main.js": "/tell-me-a-joke/static/js/main.95a1700d.js",
+    "static/js/787.8b38b5e2.chunk.js": "/tell-me-a-joke/static/js/787.8b38b5e2.chunk.js",
+    "static/media/joker-woman.jpg": "/tell-me-a-joke/static/media/joker-woman.13facac8bc365fed37ac.jpg",
+    "index.html": "/tell-me-a-joke/index.html",
+    "main.ececed05.css.map": "/tell-me-a-joke/static/css/main.ececed05.css.map",
+    "main.95a1700d.js.map": "/tell-me-a-joke/static/js/main.95a1700d.js.map",
+    "787.8b38b5e2.chunk.js.map": "/tell-me-a-joke/static/js/787.8b38b5e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ececed05.css",
+    "static/js/main.95a1700d.js"
+  ]
+}
